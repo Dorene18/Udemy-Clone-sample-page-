@@ -4,7 +4,7 @@ This is a simple **Udemy homepage clone** built using **HTML** and **CSS**. The 
 
 ## 🌐 Live Demo
 
-[Click here to view the live page](#) <!-- Replace # with your GitHub Pages link if hosted -->
+(https://dorene18.github.io/Udemy-Clone-sample-page-/)
 
 ## 🛠️ Features
 
